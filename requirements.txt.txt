@@ -1,0 +1,10 @@
+azure-functions 
+azure-cosmos 
+python-dotenv
+azure-identity
+azure-ai-projects
+python-dotenv
+requests
+azure-core 
+azure-iot-device
+openai
